@@ -1,10 +1,10 @@
 09/30/2020
 Include the date you created this project and README file.
 
-udacity project 
+bikeshare project 
 Replace the Project Title
 
-### Description
+the project involves bike sharing date in the cities of Chicago, New York and Washington
 Describe what your project is about and what it does
 
 ### Files used
